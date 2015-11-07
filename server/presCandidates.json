@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Hillary Clinton",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Ben Carson",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Donald Trump",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  }
+]

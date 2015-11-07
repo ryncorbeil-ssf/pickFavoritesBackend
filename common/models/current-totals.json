@@ -1,0 +1,43 @@
+{
+  "name": "CurrentTotals",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "candidateId": {
+      "type": "string"
+    },
+    "firstPlaceVotes": {
+      "type": "number"
+    },
+    "secondPlaceVotes": {
+      "type": "number"
+    },
+    "thirdPlaceVotes": {
+      "type": "number"
+    },
+    "date": {
+      "type": "date",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [
+    {
+      "accessType": "*",
+      "principalType": "ROLE",
+      "principalId": "$unauthenticated",
+      "permission": "DENY"
+    },
+    {
+      "accessType": "*",
+      "principalType": "ROLE",
+      "principalId": "$authenticated",
+      "permission": "ALLOW"
+    }
+  ],
+  "methods": {}
+}
