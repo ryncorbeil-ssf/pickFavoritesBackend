@@ -19,7 +19,7 @@ module.exports = function(app) {
 	});
 	console.log("Parties inserted successfully");
 	
-	
+/*
 	var candidatesSrc = require('../presCandidates.json');
 
 	var candidates = app.models.Candidates;
@@ -37,4 +37,5 @@ module.exports = function(app) {
 		});
 		console.log("Candidates inserted successfully");
 	})
+*/
 };
