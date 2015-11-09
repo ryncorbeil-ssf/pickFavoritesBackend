@@ -239,20 +239,24 @@ module.exports = function(CurrentTotals) {
             
             async.each(candidates, function (candidate, next){ 
                 // for each candidate, get current total and compute score
+                var thisCandidateId = candidate.id;
+                
                 CurrentTotals.find({
                  where: {candidateId: candidate.id},
                  order: 'date DESC',
                  limit: 1 }, function(err, currentTotal) {
                                 if(err) return cb(err);
                                 
-                                var score;
+                                var score = 0;
                                 console.log(currentTotal);
-                                score = currentTotal[0].firstPlaceVotes*numberOfCandidates +
-                                        currentTotal[0].secondPlaceVotes*(numberOfCandidates-1)+
-                                        currentTotal[0].thirdPlaceVotes*(numberOfCandidates-2);
-            
+                                if(currentTotal.length > 0) {
+                                    score = currentTotal[0].firstPlaceVotes*numberOfCandidates +
+                                            currentTotal[0].secondPlaceVotes*(numberOfCandidates-1)+
+                                            currentTotal[0].thirdPlaceVotes*(numberOfCandidates-2);
+                                }
                                 var candidateScore = {
-                                    "candidateId": currentTotal[0].candidateId,
+                                    "candidateId": thisCandidateId,
+//                                        "candidateId": currentTotal[0].candidateId,
                                     "score": score
                                 };
                                 scores.push(candidateScore);

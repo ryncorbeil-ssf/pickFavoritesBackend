@@ -1,11 +1,5 @@
 [
   {
-    "name": "Hillary Clinton",
-    "party": "Democratic",
-    "description": "",
-    "status": "Declared"
-  },
-  {
     "name": "Ben Carson",
     "party": "Republican",
     "description": "",
@@ -14,6 +8,582 @@
   {
     "name": "Donald Trump",
     "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Skip Andrews",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "George Bailey",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Michael Bickelmeyer",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Kerry Bowers",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Jeb Bush",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Eric Cavanagh",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Dale Christensen",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Chris Christie",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Ted Cruz",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Brooks Cullison",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "John Dummett,Jr.",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Mark Everson",
+    "party": "Republican",
+    "description": "",
+    "status": "Withdrawn"
+  },
+  {
+    "name": "Jack Fellure",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Carly Fiorina",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Jim Gilmore",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Lindsey Graham",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Jim Hayden",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Chris Hill",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Mike Huckabee",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Bobby Jindal",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "John Kasich",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Valma Kittington",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Bartholomew James Lower",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Andy Martin",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "James C. Mitchell,Jr.",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "K. Ross Newland",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Esteban Oliverez",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "George Pataki",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Rand Paul",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Rick Perry",
+    "party": "Republican",
+    "description": "",
+    "status": "Withdrawn"
+  },
+  {
+    "name": "Michael Petyo",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Marco Rubio",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Brian Russell",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Rick Santorum",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Jefferson Sherman",
+    "party": "Republican",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Scott Walker",
+    "party": "Republican",
+    "description": "",
+    "status": "Withdrawn"
+  },
+  {
+    "name": "Hillary Clinton",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Howell Astor",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Joe Biden",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declined"
+  },
+  {
+    "name": "Morrison Bonpasse",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Jeff Boss",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Harry Braun",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Andy Caffrey",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Willie Carter",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Lincoln Chafee",
+    "party": "Democratic",
+    "description": "",
+    "status": "Withdrawn"
+  },
+  {
+    "name": "Lloyd Kelso",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Larry Lessig",
+    "party": "Democratic",
+    "description": "",
+    "status": "Withdrawn"
+  },
+  {
+    "name": "Martin O'Malley",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Bernie Sanders",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Doug Shreffler",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Michael Steinberg",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Jim Webb",
+    "party": "Democratic",
+    "description": "",
+    "status": "Withdrawn"
+  },
+  {
+    "name": "Robby Wells",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Willie Wilson",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Brad Winslow",
+    "party": "Democratic",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Ed Baker",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "David Boarman",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Brian Briggs",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Dean Capone",
+    "party": "Socialist",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Paul Chehade",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Scott Copeland",
+    "party": "Constitution Party",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "James 'JD' Criveau",
+    "party": "Constitution Party",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Ken Cross",
+    "party": "Reform Party",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Robert Dionisio",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Art Drew",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Mark Dutter",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Marc Feldman",
+    "party": "Libertarian",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Martin Hahn",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "David Holcomb",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Cecil Ince",
+    "party": "Libertarian",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Zoltan Istvan",
+    "party": "Transhumanist Party",
+    "description": "Futurist, philosopher, speaker and journalist",
+    "status": "Declared"
+  },
+  {
+    "name": "Gary Johnson",
+    "party": "Libertarian",
+    "description": "",
+    "status": "Potential"
+  },
+  {
+    "name": "Lynn Sandra Kahn",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Chris Keniston",
+    "party": "Veterans Party of America",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Steve Kerbel",
+    "party": "Libertarian",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Chad Koppie",
+    "party": "Constitution Party",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Bishop Julian Lewis,Jr.",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "John McAfee",
+    "party": "Cyber Party",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Cynthia McKinney",
+    "party": "Green Party",
+    "description": "",
+    "status": "Potential"
+  },
+  {
+    "name": "Perry Morcom",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "J.R. Myers",
+    "party": "Constitution Party",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Mark Pendleton",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Jeremiah Pent",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Darryl Perry",
+    "party": "Libertarian",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Derrick Michael Reid",
+    "party": "Libertarian",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Ryan Shepard",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Scott Smith",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "David Jon Sponheim",
+    "party": "America's Third Party",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Tami Stainfield",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Robert Steele",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Jill Stein",
+    "party": "Green Party",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Shawna Sterling",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Samm Tittle",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Joy Waymire",
+    "party": "Libertarian",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Benjamin Weigel",
+    "party": "Independent",
+    "description": "",
+    "status": "Declared"
+  },
+  {
+    "name": "Daniel Zutler",
+    "party": "Independent",
     "description": "",
     "status": "Declared"
   }

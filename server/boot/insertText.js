@@ -1,13 +1,6 @@
 module.exports = function(app) {
 
-	//var currentTotals = app.models.CurrentTotals;
-	//currentTotals.destroyAll();
-	//var ballots = app.models.Ballots;
-	//ballots.destroyAll();	
-	
-	
 	var partiesSrc = require('../presParties.json');
-
 	var parties = app.models.Parties;
 
 	parties.destroyAll();
@@ -19,15 +12,19 @@ module.exports = function(app) {
 	});
 	console.log("Parties inserted successfully");
 	
-/*
-	var candidatesSrc = require('../presCandidates.json');
 
+	var candidatesSrc = require('../presCandidates.json');
 	var candidates = app.models.Candidates;
 
 	candidates.count({}, function(err, count) {
 		if (err) return console.log(err);
 		if (count > 0) return;
 		
+		var currentTotals = app.models.CurrentTotals;
+		currentTotals.destroyAll();
+		var ballots = app.models.Ballots;
+		ballots.destroyAll();	
+	
 		candidates.destroyAll();
 	
 		candidatesSrc.forEach(function(candidateDict){
@@ -37,5 +34,5 @@ module.exports = function(app) {
 		});
 		console.log("Candidates inserted successfully");
 	})
-*/
+
 };
